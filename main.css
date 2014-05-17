@@ -1,0 +1,146 @@
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700|Roboto+Condensed:400,700);
+
+body{
+		font-size: 30px;
+		font-weight: bold;
+
+
+}
+.container{
+	width: 1050px;
+	height: auto;
+	margin: 0 auto;
+	border: 0.1px solid black;
+	border-top: none;
+	border-bottom: none;
+}
+
+.cuerpoPrincipal{
+	width: 65%;
+	height:auto;
+	float: left;
+}
+
+.cuerpoSecundario{
+	width: 30%;
+	height:auto;
+	float: right;
+}
+
+.white{
+	color: white;
+}
+
+.social1{
+		width: 80%;
+		height: 60px;
+		background-color: #3b5998;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+		opacity: 0.85;
+		transition:0.4s;
+}
+
+.social2{
+		width: 80%;
+		height: 60px;
+		background-color: #00aced;
+		margin-top: 1px;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+		opacity: 0.85;
+		transition:0.4s;
+}
+
+.social3{
+		width: 80%;
+		height: 60px;
+		background-color: #FF6600;
+		margin-top: 1px;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+		opacity: 0.85;
+		transition:0.4s;
+}
+
+.social1:hover{
+		width: 100%;
+		height: 70px;
+		background-color: #3b5998;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+		opacity: 1.0;
+		transition:0.4s;
+}
+
+.social2:hover{
+		width: 100%;
+		height: 70px;
+		background-color: #00aced;
+		margin-top: 1px;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+		opacity: 1.0;
+		transition:0.4s;
+}
+
+.social3:hover{
+		width: 100%;
+		height: 70px;
+		background-color: #FF6600;
+		margin-top: 1px;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+		opacity: 1.0;
+		transition:0.4s;
+}
+
+.Widget{
+		font-weight: bold;
+}
+
+.navbar{
+	width: 280px;
+	height: 70px;
+	background-color: teal;
+	display: inline-block;
+	opacity: 0.80;
+	transition:0.4s;
+			text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		padding-top: 15px;
+}
+
+
+.navbar:hover{
+	width: 280px;
+	height: 70px;
+	background-color: teal;
+	display: inline-block;
+	opacity: 1;
+	transition:0.4s;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.blackline{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
